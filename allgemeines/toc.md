@@ -1,3 +1,6 @@
+---
+icon: note
+---
 # Inhaltsverzeichnis
 
 | Datum           | Stunden | Inhalt                                                    |
