@@ -22,4 +22,5 @@ Programmierung bedeutet nicht Softwareentwicklung. Software-Engineering ist ein 
 - finanziellen und
 - betrieblichen Beschränkungen
 
+>**Hinweis** Für eine Softwarefirma sind gute Programmierer das "größt Kapital". (Job... Senior,...)
 [^1]: Vergl. **Sommerville**, Ivan. Software Engineering. München: Pearson Deutschland GmbH. S 646.
