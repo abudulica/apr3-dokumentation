@@ -12,9 +12,10 @@
 |24. Okt. 2025    |     2   | Steuerelemente (SLidder, Stepper) Events, Vererbung       |                  
 ## Softwareentwicklung und Projektmanagement
 
-| Datum         | Stunden | Inhalt                                                    |
-|---------------| ------- | --------------------------------------------------------- |
-| 16. Sep. 2025 |     2   | Organisatorisches, Projekte                               |
-| 30. Sep. 2025 |     2   | Definiotion des Projektbetriebs                           |
-| 14. Okt. 2025 |     2   | Projektarten, Mindmaps, Projektziele                      |
+| Datum         | Stunden | Inhalt                                 |
+|---------------| ------- |----------------------------------------|
+| 16. Sep. 2025 |     2   | Organisatorisches, Projekte            |
+| 30. Sep. 2025 |     2   | Definiotion des Projektbetriebs        |
+| 14. Okt. 2025 |     2   | Projektarten, Mindmaps, Projektziele   |
+| 04. Nov. 2025 |     2   | Projektziele, Projektmanagementprozess |
 
