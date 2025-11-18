@@ -1,10 +1,3 @@
----
-icon: note
-author: Anamarija Budulica
-date: '2025-11-04'
-order: 9700
----
-
 # Projektmanagement
 
 ## Allgemeines
@@ -23,4 +16,9 @@ Programmierung bedeutet nicht Softwareentwicklung. Software-Engineering ist ein 
 - betrieblichen Beschränkungen
 
 >**Hinweis** Für eine Softwarefirma sind gute Programmierer das "größt Kapital". (Job... Senior,...)
+
+## Ablauf eines Projektes
+
+![phasenmodell](assets)
+
 [^1]: Vergl. **Sommerville**, Ivan. Software Engineering. München: Pearson Deutschland GmbH. S 646.
